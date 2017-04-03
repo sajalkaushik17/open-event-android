@@ -13,6 +13,7 @@ The Open Event Android project consists of two components. The **App Generator**
 ## Communication
 
 Please join our mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/open-event
+lmfbdfkc
 
 Our chat channel is on gitter here: https://gitter.im/fossasia/open-event-android
 
